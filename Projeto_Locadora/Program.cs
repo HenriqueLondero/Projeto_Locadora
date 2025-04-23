@@ -18,6 +18,9 @@ namespace Projeto_Locadora
             bool executar = true;
             do
             {
+
+
+
                 Console.WriteLine("BEm vindo a locadora de livros");
                 Console.WriteLine("Informe a opção desejada!");
                 Console.WriteLine("1 Menu de livros");
